@@ -12,7 +12,7 @@
 ```
 
 ```bash
-  my name is Rohan Kumar 
+  my name is Rynatte
   I am interested in MERN stack Development
 ```
 ```bash
