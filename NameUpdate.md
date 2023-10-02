@@ -8,7 +8,7 @@
 ```
 ```bash
   my name is subrat kaushik.
-  I am interested in Full Stack Web Development
+  I am interested in Web Development
 ```
 
 ```bash
