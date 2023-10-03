@@ -18,12 +18,21 @@
 ```bash
   My name is Siddhesh BG
   I am interested in Cloud computing
-  ```
 ```bash
   My name is Manan Chhabra
   I am a back-end software developer.
+
+```bash
+  My name is Surbhi Sharma
+  I am a Java core enthusiast.
   ```
-  ```bash
+```bash
+My name is Santosh Kumar
+I am a mobile developer
+```
+
+```bash
   My name is Shubh Bindal
   I am a back-end software developer.
   I have experience with Django,Rails and Express.Js.
+```
