@@ -34,3 +34,8 @@ I am a mobile developer
 My name is Anudeep K K
 I am interested in to get job in software
 ```
+
+```bash
+My name is Akash Gadhave
+I am interested in MERN & MEAN stack development
+```
